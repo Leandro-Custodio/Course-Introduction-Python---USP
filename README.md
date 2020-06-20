@@ -1,4 +1,4 @@
-# Course-Introduction-Python---USP
+# Course-Introduction-Python-USP
 ## Pt-BR: 
 Esse repositório é destinado as atividades e lições aprendidas durante o curso: "Introdução à Ciência da Computação com Python Parte 1" Organizado por: USP - Universidade de São Paulo <br />
 
